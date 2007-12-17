@@ -42,7 +42,6 @@ Requires: drakconf
 Requires: rxvt
 Requires: xmag
 BuildArch: noarch
-BuildRoot: %{_tmppath}/%{name}-%{version}-root
 
 %description
 This package is a meta-package for the EDE desktop environment. 
