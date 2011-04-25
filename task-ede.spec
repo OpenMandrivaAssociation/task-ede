@@ -1,6 +1,6 @@
 %define name task-ede
 %define version 1.0
-%define release %mkrel 4
+%define release %mkrel 5
 
 Name: %{name}
 Version: %{version}
@@ -36,7 +36,7 @@ Requires: mozilla-thunderbird
 Requires: alsaplayer
 Requires: mplayer-gui
 Requires: xmms
-Requires: Eterm
+Requires: eterm
 Requires: kterm
 Requires: drakconf
 Requires: rxvt
