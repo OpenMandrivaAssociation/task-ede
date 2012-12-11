@@ -52,3 +52,26 @@ layout, along with EDE itself.
 %files
 
 
+
+
+%changelog
+* Mon Apr 25 2011 Jani Välimaa <wally@mandriva.org> 1.0-5mdv2011.0
++ Revision: 658721
+- require lowercase eterm
+
+* Tue Sep 08 2009 Thierry Vignaud <tv@mandriva.org> 1.0-4mdv2010.0
++ Revision: 434276
+- rebuild
+
+* Wed Jul 23 2008 Thierry Vignaud <tv@mandriva.org> 1.0-3mdv2009.0
++ Revision: 242854
+- rebuild
+- kill re-definition of %%buildroot on Pixel's request
+
+  + Olivier Blin <oblin@mandriva.com>
+    - restore BuildRoot
+
+* Sun Jul 01 2007 Adam Williamson <awilliamson@mandriva.org> 1.0-1mdv2008.0
++ Revision: 46845
+- Import task-ede
+
